@@ -163,7 +163,7 @@ div.discontinued:after {
     text-transform: uppercase;
     white-space: pre-wrap;
     font-family: "Oswald", sans-serif;
-    content: "FOr the ";
+    content: "FOr my ";
 }
 
 div.discontinued:before {
